@@ -6,6 +6,7 @@ resulting in more than 114,000 deaths. More than 421,000 people have recovered, 
 may be a possibility of reinfection.
 
 Requirements:
+
 In this project, you are required to answer queries regarding the COVID-19 pandemic. You are
 provided with data regarding the pandemic containing information regarding the daily new cases
 and cumulative cases for each country.
